@@ -1,0 +1,25 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  background-color: aliceblue;
+}
+div{
+  background-color: blueviolet;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+button{
+  padding: 30px 40px;
+  background: purple;
+  color:black;
+  border: 5px solid white;
+  text-transform: uppercase;
+  cursor: pointer;
+  margin: 10vh;
+  
+}
