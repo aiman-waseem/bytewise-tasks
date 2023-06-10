@@ -1,0 +1,13 @@
+export function BookLayout(){
+    return(
+        <>
+
+
+
+
+
+
+        
+        </>
+    )
+}
