@@ -1,0 +1,10 @@
+.card{
+    box-sizing: border-box;
+    border: 6px solid red;
+    background-color: yellow;
+    padding: 10px;
+    margin: 20px;
+}
+.comp1div{
+    border: 5px solid black;
+}

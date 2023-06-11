@@ -1,0 +1,12 @@
+.btn{
+    background-color: yellowgreen;
+    border: 5px solid grey;
+    color: red;
+}
+.card{
+    box-sizing: border-box;
+    border: 6px solid purple;
+    background-color: aquamarine;
+    padding: 10px;
+    margin: 20px;
+}
