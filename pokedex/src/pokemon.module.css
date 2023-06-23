@@ -1,0 +1,53 @@
+*{
+ padding: 0px;
+ box-sizing: border-box;
+ margin: 0px;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.pokemonList{
+   
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.container{
+    margin: 0 36rem;
+    font-size: 20px;
+    
+}
+.card{
+    background-color: rgb(175, 215, 175);
+    border: 5px solid rgb(113, 154, 113);
+    margin: 1rem;
+    padding: 0rem 6rem;
+    border-radius: 16px;
+    box-shadow: 5px 10px 8px 10px #87ab7e
+    
+}
+.logo{
+    width: 51rem;
+}
+.searchbar input{
+    padding: 7px 100px;
+    margin: 5px;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+.searchbar button{
+    background-color: rgb(174, 174, 108);
+    padding: 6px;
+}
+.prevNextbutton{
+    justify-content: center;
+    margin: 3px;
+    background-color: rgb(174, 174, 108);
+    
+}
+.PNbuttons{
+    display: flex;
+    justify-content: center;
+     align-items: center;
+   
+}
